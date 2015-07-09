@@ -3,7 +3,7 @@
 - include: "*.view.lookml"       # include all the views
 - include: "*.dashboard.lookml"  # include all the dashboards
 
-- explore: test'  
+- explore: test
 # - explore: access_token
 #   joins:
 #     - join: credentials_api3
